@@ -73,3 +73,27 @@ ul {
 .boxes {
     background-color: black;
 }
+
+.persons {
+    color: rgb(60, 33, 158);
+    padding: 20 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+
+}
+
+.persons img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.userinfos {
+    background-color: rgb(31, 115, 114);
+    
+}
+.Users {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
